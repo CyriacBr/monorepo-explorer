@@ -1,0 +1,4 @@
+{
+  "default": { "a": "./packages/a", "b": "./packages/b" },
+  "artifacts": { "a": "./packages/a/dist" }
+}
